@@ -1,4 +1,4 @@
-from IPython.display import display, Markdown, Latex
+from IPython.display import display, Markdown
 
 class Table(object):
     def __init__(self, columns):
